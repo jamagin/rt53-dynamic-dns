@@ -1,0 +1,9 @@
+[address]
+v4_func=public_ip.ipv4
+v6_func=local_ip.ipv6
+hostname=myhost.dyn.example.com
+[aws]
+aws_access_key_id=
+aws_secret_access_key=
+zone_id=
+
